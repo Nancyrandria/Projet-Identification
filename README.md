@@ -87,12 +87,14 @@ Projet réalisé pour illustrer les concepts de :
 - Respecter le format du mot de passe
 - Possibilité de réinitialiser
 - Cliquer sur **S’inscrire**
-- Message de succès affiché
+- Message de succès **Inscription réussie**
 
 ### Connexion
 - Cliquer bouton **Se connecter**
 - Entrer l’email et le mot de passe
 - Possibilité de réinitialiser
+- Cliquer sur **Se connecter**
+- Message de succès **Vous êtes bien connecté**
 - Après 3 erreurs, la connexion est bloquée temporairement
 
 ---
