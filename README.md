@@ -81,14 +81,18 @@ Projet réalisé pour illustrer les concepts de :
 - Ouvrir le fichier `index.html` dans un navigateur moderne (Chrome, Edge, Firefox)
 
 ### Inscription
+- Cliquer bouton **S'inscrire**
 - Remplir tous les champs
 - Respecter le format de l'email
 - Respecter le format du mot de passe
+- Possibilité de réinitialiser
 - Cliquer sur **S’inscrire**
 - Message de succès affiché
 
 ### Connexion
+- Cliquer bouton **Se connecter**
 - Entrer l’email et le mot de passe
+- Possibilité de réinitialiser
 - Après 3 erreurs, la connexion est bloquée temporairement
 
 ---
